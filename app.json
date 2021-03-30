@@ -1,0 +1,12 @@
+{
+  "name": "expostack",
+  "displayName": "expostack",
+  "expo": {
+    "name": "expostack",
+    "slug": "expostack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
